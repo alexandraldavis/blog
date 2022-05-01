@@ -8,6 +8,25 @@ nodate: true
 ---
 ## 2022
 
+* [Voices from Srebrenica](https://www.indiebound.org/book/9781476683348) by Ann Petrila and Hasan Hasanovic
+* [Sarajevo Marlboro](https://www.indiebound.org/book/9780972869225) by Miljenko Jergovic
+* [Mr. Putin](https://www.indiebound.org/book/9780815726173) by Fiona Hill
+* [The Complete Maus: A Survivor's Tale](https://www.indiebound.org/book/9780679406419) by Art Spiegelman
+* [Ordinary Men](https://www.indiebound.org/book/9780062981486) by Christopher Browning
+* [The Neuroscience of Human Relationships](https://www.indiebound.org/book/9780393707823) by Louis Cozolino
+* [Selected Poems](https://www.indiebound.org/book/9780916458904) by Oleh Lysheha
+* [Chilean Poet](https://www.indiebound.org/book/9780593297940) by Alejandro Zambra
+* [New and Collected Poems: 1931–2001](https://www.indiebound.org/book/9780060514488) by Czesław Miłosz
+* [Amusing Ourselves to Death](https://www.indiebound.org/book/9781481546799) by Neil Postman
+* [Slouching Towards Bethlehem](https://www.indiebound.org/book/9780374531386) by Joan Didion
+* [The Third Shore: Women's Fiction from East Central Europe](https://www.indiebound.org/book/9780810123090) by Agata Schwartz and Luise von Flotow
+* [This Common Secret](https://www.indiebound.org/book/9781586486471) by Susan Wickland
+* [Freedom](https://jonathanfranzen.com/books/) by Jonathan Franzen
+* [Selected Poems](https://www.indiebound.org/book/9781852240639) by Anna Akhmatova
+* [Gardens](https://www.indiebound.org/book/9780226317908) by Robert Pogue Harrison
+* [Republicanism in Russia](https://www.indiebound.org/book/9780674976726) by Oleg Kharkordin
+* [The Broken Heart of America](https://www.indiebound.org/book/9781541619586) by Walter Johnson
+* [In The Dream House](https://www.indiebound.org/book/9781684572793) by Carmen Maria Machado
 * [Know My Name](https://www.chanel-miller.com/) by Chanel Miller
 * [Map: Collected and Last Poems](https://www.indiebound.org/book/9780544705159) by Wisława Szymborska
 * [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/) by Cal Newport
