@@ -59,9 +59,11 @@ I felt that difference when I returned to the Newark airport yesterday.
 
 My trip culminated with a visit to the Reichstag building on my final night. What an architectural feat. 
 
+{{< figure src="reichstag2.jpeg" width="400px" >}}
+
 {{< figure src="reichstag6.jpeg" width="400px" >}}
 
-{{< figure src="reichstag7.jpeg" width="400px" >}}
+{{< figure src="reichstag.jpeg" width="400px" >}}
 
 {{< figure src="reichstag3.jpeg" width="400px" >}}
 
