@@ -57,8 +57,22 @@ But my reasons changed as the trip progressed. I found myself absorbing the Germ
 
 I felt that difference when I returned to the Newark airport yesterday. 
 
-My trip culminated with a visit to the Reichstag building on my final night. What an architectural feat. More importantly, that sense of belonging seeped into my bones more at that time than at any other. I imagine some Germans would scoff at this, as Berlin is arguably the least German of all places in the country. But I think that this is precisely why I felt like I belonged: I am not German, and neither are many who call Berlin home. In fact, countless eastern Europeans live in Berlin. I encountered many people who looked like me and was even approached for this reason.
+My trip culminated with a visit to the Reichstag building on my final night. What an architectural feat. 
 
+{{< figure src="reichstag6.jpeg" width="400px" >}}
 
+{{< figure src="reichstag7.jpeg" width="400px" >}}
+
+{{< figure src="reichstag3.jpeg" width="400px" >}}
+
+{{< figure src="reichstag.jpeg" width="400px" >}}
+
+{{< figure src="reichstag8.jpeg" width="400px" >}}
+
+More importantly, that sense of belonging seeped into my bones more at that time than at any other. I imagine some Germans would scoff at this, as Berlin is arguably the least German of all places in the country. But I think that this is precisely why I felt like I belonged: I am not German, and neither are many who call Berlin home. In fact, countless eastern Europeans live in Berlin. I encountered many people who looked like me and was even approached for this reason.
+
+{{< figure src="reichstag5.jpeg" width="400px" >}}
+
+{{< figure src="reichstag4.jpeg" width="400px" >}}
 
 More generally, Berlin and Germany as a whole welcome people from different countries. This is not to say there are no discrimination issues there. But I felt like I have made a mental home in Germany for an eternity and that the country offers so much in return, even though Germany is not my Heimat. I could walk around and feel eine geistige Heimat.
