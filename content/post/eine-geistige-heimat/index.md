@@ -69,6 +69,7 @@ My trip culminated with a visit to the Reichstag building on my final night. Wha
 {{< figure src="reichstag.jpeg" width="400px" >}}
 
 {{< figure src="reichstag8.jpeg" width="400px" >}}
+
 More importantly, that sense of belonging seeped into my bones more at that time than at any other. I imagine some Germans would scoff at this, as Berlin is arguably the least German of all places in the country. But I think that this is precisely why I felt like I belonged: I am not German, and neither are many who call Berlin home.
 
 {{< figure src="reichstag5.jpeg" width="400px" >}}
