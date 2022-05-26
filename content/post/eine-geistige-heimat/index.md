@@ -13,7 +13,7 @@ To my delight I was mistaken for not an American tourist but rather a local.
 
 My flight to Germany was a disaster. A hydraulic leak delayed the journey from Newark to Munich by five hours. We all boarded the plane, ready to depart until the crew announced the bad news: a hydraulic leak. We begrudgingly dragged ourselves back into the airport, where the gate was reassigned. The boarding time was pushed back another hour for what felt like an eternity until the crew finally recruited a new aircraft.
 
-I was exhausted by the time I arrived in Hamburg after rebooking my connection from Munich. I lost an entire day thanks to United Airlines. A piercing migraine lingered as I headed to the nearest supermarket to find my hungry and dehydrated self something to eat. I had not left my accommodation for more than five minutes before a stranger talked to me. 
+I was exhausted by the time I arrived in Hamburg after rebooking my connection from Munich. I lost an entire day thanks to United Airlines. A piercing migraine lingered as I headed to the nearest supermarket to find my hungry and dehydrated self something to eat. I had not left my accommodation for more than five minutes before a stranger addressed me. 
 
 She asked for the time. I was caught so off-guard that it took me a few seconds to retrieve my phone so that I could answer.
 
@@ -53,9 +53,9 @@ I know my German is great, so I would not say I had imposter syndrome. But I wan
 
 What makes less sense on the surface is why I wanted to not stick out as an American. Granted, sometimes this is quite practical depending on the location and one's demographic. For safety reasons I do not want to publicly indicate that I am a foreign solo female traveler. And as much as I myself avoid stereotyping others, a part of me wanted to not seem like the typical and unlikable American tourist.
 
-But my reasons changed as the trip progressed. I found myself absorbing the German lifestyle so much that I wanted to feel like I was part of it. I loved using the Deutsche Bahn and the local transit, whose infrastructures laugh at the United States. I delighted in the number of languages I heard in the streets. Again, I do not like stereotypes, and this may sound naive, but I felt like I belonged there better -- regardless of the location -- than I do in most of the United States with Chicago being the main exception. 
+But my reasons changed as the trip progressed. I found myself absorbing the German lifestyle so much that I wanted to feel like I was part of it. I loved using the Deutsche Bahn and the local transit, whose infrastructures laugh at the United States. The number of languages I heard in the streets delighted me. I swapped a world of automobiles, fast food, humidity, mass shootings, and baseball for one with public transportation, better weather, a gritty history I adore, and proper football.
 
-I felt that difference when I returned to the Newark airport yesterday. 
+I felt that difference when I returned to the Newark airport yesterday. My sense of belonging faded.
 
 My trip culminated with a visit to the Reichstag building on my final night. What an architectural feat. 
 {{< figure src="reichstag2.jpeg" width="400px" >}}
@@ -70,10 +70,10 @@ My trip culminated with a visit to the Reichstag building on my final night. Wha
 
 {{< figure src="reichstag8.jpeg" width="400px" >}}
 
-More importantly, that sense of belonging seeped into my bones more at that time than at any other. I imagine some Germans would scoff at this, as Berlin is arguably the least German of all places in the country. But I think that this is precisely why I felt like I belonged: I am not German, and neither are many who call Berlin home.
+More importantly, that sense of belonging seeped into my bones more at that time than at any other. I imagine some Germans would scoff at this, as Berlin is arguably the least German of all places in the country. But I think that this is precisely why I felt like I belonged: I am not German, and neither are many who call Berlin home. Instead they make Germany their home. That is never a way I felt about America.
 
 {{< figure src="reichstag5.jpeg" width="400px" >}}
 
 {{< figure src="reichstag4.jpeg" width="400px" >}}
 
-I felt like I have made a mental home in Germany for an eternity and that the country offers so much in return, even though Germany is not my Heimat. I could walk around and feel eine geistige Heimat.
+Germany is not my Heimat. But I walked around and realized eine geistige Heimat.
