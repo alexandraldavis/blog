@@ -1,5 +1,5 @@
 ---
-title: "Eine zweite Heimat"
+title: "Eine geistige Heimat"
 date: 2022-05-25
 draft: false
 nodate: false
@@ -66,7 +66,7 @@ My trip culminated with a visit to the Reichstag building on my final night. Wha
 
 {{< figure src="reichstag3.jpeg" width="400px" >}}
 
-{{< figure src="reichstag.jpeg" width="400px" >}}
+{{< figure src="reichstag7.jpeg" width="400px" >}}
 
 {{< figure src="reichstag8.jpeg" width="400px" >}}
 
