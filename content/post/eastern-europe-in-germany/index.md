@@ -71,9 +71,9 @@ For a while I lingered there and let myself feel bad. I was not the only one.
 
 Even the German-Russian Museum, the site at which the Nazis formally surrendered in May 1945, was renamed as the Berlin-Karlshorst Museum in light of recent horrors.
 
-{{< figure src="signal-2022-05-30-142931_006.jpeg" width="400px" >}}
+{{< figure src="signal-2022-05-30-164101_009.jpeg" width="400px" >}}
 
-{{< figure src="signal-2022-05-30-142931_010.jpeg" width="400px" >}}
+{{< figure src="signal-2022-05-30-164101_010.jpeg" width="400px" >}}
 
 I realized quickly on this trip that there was never a chance of someone in the streets dismissing me as an American. I had nothing to worry about. For a while I convinced myself that I did not want to be associated with the United States because I would be deemed unworldly, loud, needy, and whatever other words stereotype Americans. I dislike stereotypes, but still I consider myself so much the opposite of those things that I was concerned. 
 
