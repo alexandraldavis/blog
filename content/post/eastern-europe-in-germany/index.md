@@ -1,6 +1,6 @@
 ---
 title: Eastern Europe in Germany
-date: 2022-05-01
+date: 2022-06-08
 draft: false
 ---
 It was only months ago that the war in Ukraine debilitated my psyche. For the first couple of weeks I, as someone who otherwise avoids reading any type of news, was unable to tear myself away from live streams of the conflict. Not even freezing tissue samples could detract my attention; occasional glimpses of the horror on my laptop screen accompanied the desperation that my wireless earbuds channeled into my head as I dipped synovial explants into a bath of liquid nitrogen.
