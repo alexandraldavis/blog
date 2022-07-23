@@ -79,6 +79,8 @@ Trodding the footsteps of thousands of victims through the concentration camp gr
 
 Throughout the camp I felt simultaneously hyperaware of my personhood and oblivious to it: realizing at one moment that this could have easily been my personal fate had I not been so lucky to have been born only twenty-five years ago, while also acknowledging that such an experience is not individual but rather collective.
 
+{{< figure src="interior.jpeg" width="400px" >}}
+
 Yet I am oblivious, forever unable to wholly understand how victims suffered and continue to suffer. Suburban German homes enveloped me as I left the camp feeling out of touch with reality as I left the camp. Soon enough I was back at the train station to return to Berlin.
 
 {{< figure src="return.jpeg" width="400px" >}}
