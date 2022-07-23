@@ -8,6 +8,26 @@ nodate: true
 ---
 ## 2022
 
+* [Native Realm](https://www.indiebound.org/book/9780374528300) by Czesław Miłosz
+* [Ukraine Diaries](https://www.worldcat.org/title/ukrainian-diaries-dispatches-from-kiev/oclc/973303274&referer=brief_results) by Andrey Kurkov
+* [Eure Heimat ist unser Albtraum](https://www.ullstein-buchverlage.de/nc/buch/details/eure-heimat-ist-unser-albtraum-9783961010363.html) by Fatma Aydemir 
+* [A Long Way Home](https://saroobrierley.com/) by Saroo Brierley
+* [A Tomb for Boris Davidovich](https://www.indiebound.org/book/9781628975161) by Danilo Kiš
+* [Collected Poems in English](https://www.indiebound.org/book/9780374528386) by Joseph Brodsky
+* [Down Girl](http://www.katemanne.net/down-girl.html) by Kate Manne
+* [Lessons From The Edge](https://www.indiebound.org/book/9780358457541) by Marie Yovanovitch
+* [Against Interpretation and Other Essays](https://www.indiebound.org/book/9780312280864) by Susan Sontag
+* [The Comfort Book](http://www.matthaig.com/the-comfort-book-is-out/) by Matt Haig
+* [Like Eating a Stone](https://www.worldcat.org/title/like-eating-a-stone-surviving-the-past-in-bosnia/oclc/620001177&referer=brief_results) by Wojciech Tochman
+* [Hera Lindsay Bird](http://www.heralindsaybird.com/books.html) by Hera Lindsay Bird
+* [Sprache und Sein](https://kubragumusay.com/book/) by Kübra Gümüşay
+* [Trick Mirror](https://www.indiebound.org/book/9780525624462) by Jia Tolentino
+* [Great Circle](https://www.maggieshipstead.com/books#/greatcircle/) by Maggie Shipstead
+* [Nostalgia](https://www.indiebound.org/book/9780811215886) by Mircea Cartarescu
+* [Matei Brunul](https://www.indiebound.org/book/9781943150236) by Lucian Dan Teodorovici
+* [Wenn die Dinge mit uns reden](https://www.buecher.de/shop/computerlinguistik/wenn-die-dinge-mit-uns-reden/droesser-christoph/products_products/detail/prod_id/59307814/) by Christoph Drösser
+* [The Bosnia List](https://www.indiebound.org/book/9780143124573) by Kenan Trebincevic
+* [Disciplined Minds](https://www.indiebound.org/book/9780742516854) by Jeff Schmidt
 * [Voices from Srebrenica](https://www.indiebound.org/book/9781476683348) by Ann Petrila and Hasan Hasanovic
 * [Sarajevo Marlboro](https://www.indiebound.org/book/9780972869225) by Miljenko Jergovic
 * [Mr. Putin](https://www.indiebound.org/book/9780815726173) by Fiona Hill
