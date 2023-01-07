@@ -1,6 +1,6 @@
 ---
 title: "Gehe ich damit um?"
-date: 2021-12-31
+date: 2022-12-31
 draft: false
 commentable: true
 nodate: false
